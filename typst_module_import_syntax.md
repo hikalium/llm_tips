@@ -1,0 +1,1 @@
+Understand Typst's module import syntax: '#import "path"' (module object), '#import "path": func' (direct access), '#import "path" as alias' (aliased access).

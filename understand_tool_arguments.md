@@ -1,0 +1,1 @@
+Carefully review the documentation for each tool's arguments. Pay close attention to how string literals, paths, and special characters are expected.

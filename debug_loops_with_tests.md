@@ -1,0 +1,1 @@
+If stuck in a repetitive loop, create small, isolated test cases to pinpoint the exact behavior of tools or code. Verify each step of the test.

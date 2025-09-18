@@ -1,0 +1,1 @@
+Always `read_file` immediately after `write_file` or `replace` to verify the content is exactly as intended, especially for complex string manipulations or escaping.

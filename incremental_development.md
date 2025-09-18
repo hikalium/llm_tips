@@ -1,0 +1,1 @@
+Break down complex tasks into smaller, manageable steps. Implement and verify each step before moving to the next to ensure stability.

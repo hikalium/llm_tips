@@ -1,0 +1,1 @@
+When converting images, aggressively clean or protect alt text from inline formatting conversions to prevent corruption of image paths or captions.

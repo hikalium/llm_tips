@@ -1,0 +1,1 @@
+Before executing any shell command that modifies the filesystem or system state, provide a brief explanation of its purpose and potential impact.

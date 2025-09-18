@@ -1,0 +1,1 @@
+The order of regular expression substitutions matters. Process elements that can contain others (like images) before processing their contained inline formatting.

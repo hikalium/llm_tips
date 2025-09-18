@@ -1,0 +1,1 @@
+Before modifying any file, always `read_file` to understand its current content, structure, and conventions. Never assume file content.

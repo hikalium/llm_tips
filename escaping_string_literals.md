@@ -1,0 +1,1 @@
+When writing code that contains string literals with backslashes, remember to escape backslashes for the Python string, and then escape them again for the `write_file` tool's `content` argument. E.g., `\` becomes `\\` in the `content` string.

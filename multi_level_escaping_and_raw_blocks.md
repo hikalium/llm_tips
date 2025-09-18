@@ -1,0 +1,1 @@
+When generating code or content for another language (e.g., Typst) via string literals, remember multi-level escaping. Backslashes must be escaped for Python, and then again for the target language. Use raw blocks (```...```) in Typst to ensure content is treated as literal markup, preventing misinterpretation of special characters.

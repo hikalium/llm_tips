@@ -1,0 +1,1 @@
+If a Python script written by the agent has a SyntaxError, especially with backslashes, the issue is often how the Python string literal was constructed for the 'write_file' tool.

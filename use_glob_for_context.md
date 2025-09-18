@@ -1,0 +1,1 @@
+Use `glob` and `search_file_content` to quickly understand the project structure and locate relevant files or code patterns before making changes.
